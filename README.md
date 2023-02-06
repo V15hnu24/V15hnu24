@@ -6,6 +6,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V15hnu24)](https://github.com/V15hnu24/github-readme-stats)
 Here are some ideas to get you started:
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
