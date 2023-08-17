@@ -35,9 +35,7 @@ Greetings! I'm a passionate student at IIIT Delhi, India, passionate about craft
 
 ### Software Development Intern
 #Jio Platforms Limited
-<a href="/experiences/jio_intern.md">
-  <img src="/images/jio_logo.png" alt="Jio Platforms Limited" width="100" height="100">
-</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/V15hnu24) 
 - May 23 - July 23
 - Worked with the Jio Data Platforms (Big Data) Team.
 - Developed algorithmic solutions using Hive and Spark for analyzing transactional data.
