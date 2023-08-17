@@ -24,5 +24,3 @@ Skills: JAVA / PYTHON / NEXT JS / REACT / EXPRESS /JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/V15hnu24)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=V15hnu24)  
-
-![Profile views](https://gpvc.arturio.dev/V15hnu24)  
