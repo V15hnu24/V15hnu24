@@ -33,7 +33,7 @@ Greetings! I'm a passionate student at IIIT Delhi, India, passionate about craft
 
 ## Experience
 
-[<img src='images/jio_logo.png' alt='jio' height='40'>](https://en.wikipedia.org/wiki/Jio_Platforms)  [<img src='https://yt3.googleusercontent.com/_QUFm1zWPTLsVidgSxkinxdhGs4jLUZuIeesgwIf2XrrRJ_Zi5IKs1HlnXjKTOZ0J5G981ygrg=s900-c-k-c0x00ffffff-no-rj' alt='TLE' height='40'>](https://www.tle-eliminators.com/)  [<img src='https://enveave.earth/favicon.svg' alt='Enveave' height='40'>](https://enveave.earth/) [<img src='images/memboro1_logo.png' alt='Memboro' height='40'>](https://www.thememboro.com/) [<img src='images/passious_logo.png' alt='passious' height='40'>](https://passious-web-five.vercel.app/)  
+[<img src='images/jio_logo.png' alt='jio' height='40'>](https://en.wikipedia.org/wiki/Jio_Platforms)  [<img src='https://yt3.googleusercontent.com/_QUFm1zWPTLsVidgSxkinxdhGs4jLUZuIeesgwIf2XrrRJ_Zi5IKs1HlnXjKTOZ0J5G981ygrg=s900-c-k-c0x00ffffff-no-rj' alt='TLE' height='40'>](https://www.tle-eliminators.com/)  [<img src='https://enveave.earth/favicon.svg' alt='Enveave' height='40'>](https://enveave.earth/) [<img src='images/memboro.png' alt='Memboro' height='40'>](https://www.thememboro.com/) [<img src='images/passious_logo.png' alt='passious' height='40'>](https://passious-web-five.vercel.app/)  
 
 
 ### Software Development Intern
