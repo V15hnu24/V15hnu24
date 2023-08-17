@@ -41,30 +41,30 @@ Greetings! I'm a passionate student at IIIT Delhi, India, passionate about craft
 - May 23 - July 23
 - Worked with the Jio Data Platforms (Big Data) Team.
 - Developed algorithmic solutions using Hive and Spark for analyzing transactional data.
-- Created a Next.js, MongoDB website to automate and enhance documentation processes. [More details](/experiences/jio_intern.md)
+- Created a Next.js, MongoDB website to automate and enhance documentation processes. 
 
 ### Software Development Engineer
 [TLE Eliminators](https://www.tle-eliminators.com/)
 - May 23 - Present
 - Lead Backend Engineer, optimizing and enhancing backend functionalities using Node.js and MongoDB.
-- Contributed to business analysis, aligning strategies with company goals. [More details](/experiences/tle_engineer.md)
+- Contributed to business analysis, aligning strategies with company goals.
 
 ### Operations and Backend Development Intern
 [Enveave](https://enveave.earth/)
 - Aug 22 - Sep 22
 - Researched WhatsApp API for Business and developed targeted marketing strategies.
-- Conducted research on climate sustainability and finance, informing innovative tech solutions. [More details](/experiences/enveave_intern.md)
+- Conducted research on climate sustainability and finance, informing innovative tech solutions. 
 
 ### Partner and Strategy
 [Memboro](https://www.thememboro.com/)
 - Aug 21 - Jan 23
 - Led outreach team, devised effective strategies to onboard Content Creators and social media influencers.
-- Developed Python software on GitHub for automated email outreach, boosting productivity. [More details](/experiences/memboro_partner.md)
+- Developed Python software on GitHub for automated email outreach, boosting productivity. 
 
 ### Co-Founder
 [Passious](https://passious-web-five.vercel.app/)
 - Mar 22 - April 22
-- Oversaw the development of Mobile application and Website, ensuring high quality and user-centric experiences. [More details](/experiences/passious_cofounder.md)
+- Oversaw the development of Mobile application and Website, ensuring high quality and user-centric experiences. 
 
 
 
